@@ -1,0 +1,38 @@
+Xcursor.theme: whiteglass
+
+! special
+*.foreground:   #ffccd1
+*.background:   #3f4a68
+*.cursorColor:  #ffccd1
+
+! black
+*.color0:       #282a2e
+*.color8:       #373b41
+
+! red
+*.color1:       #f4506f
+*.color9:       #ffa0b2
+
+! green
+*.color2:       #3d6e30
+*.color10:      #62b04e
+
+! yellow
+*.color3:       #f7bb7c
+*.color11:      #f7e8d8
+
+! blue
+*.color4:       #7eabd0
+*.color12:      #b2dcff
+
+! magenta
+*.color5:       #85678f
+*.color13:      #b294bb
+
+! cyan
+*.color6:       #8fd7ce
+*.color14:      #b9fff6
+
+! white
+*.color7:       #707880
+*.color15:      #c5c8c6
