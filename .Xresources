@@ -1,37 +1,39 @@
+URxvt.font: xft:Ohsnap:pixelsize=16
+
 Xcursor.theme: whiteglass
 
 ! special
-*.foreground:   #ffccd1
+*.foreground:   #ffbdc4
 *.background:   #3f4a68
-*.cursorColor:  #ffccd1
+*.cursorColor:  #ffbdc4
 
 ! black
 *.color0:       #282a2e
 *.color8:       #373b41
 
 ! red
-*.color1:       #f4506f
-*.color9:       #ffa0b2
+*.color1:       #a54242
+*.color9:       #cc6666
 
 ! green
-*.color2:       #3d6e30
-*.color10:      #62b04e
+*.color2:       #8c9440
+*.color10:      #b5bd68
 
 ! yellow
-*.color3:       #f7bb7c
-*.color11:      #f7e8d8
+*.color3:       #de935f
+*.color11:      #f0c674
 
 ! blue
-*.color4:       #7eabd0
-*.color12:      #b2dcff
+*.color4:       #5f819d
+*.color12:      #81a2be
 
 ! magenta
 *.color5:       #85678f
 *.color13:      #b294bb
 
 ! cyan
-*.color6:       #8fd7ce
-*.color14:      #b9fff6
+*.color6:       #5e8d87
+*.color14:      #8abeb7
 
 ! white
 *.color7:       #707880
